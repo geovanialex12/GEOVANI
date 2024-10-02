@@ -13,7 +13,7 @@ Neste repositório, você encontrará diversos projetos e exercícios que estou 
 - **Ferramentas:** Git, GitHub, Visual Studio Code
 
 ## FRASE CARRAGANDO
-- [APERTE AQUI](https://editor.p5js.org/geovani.alex/full/DOP31G7bu): Um clássico jogo de Pong onde você controla uma raquete contra outra, tentando rebater uma bolinha para marcar pontos. Este projeto foi realizado no p5.js.
+- [APERTE AQUI](https://editor.p5js.org/geovani.alex/full/DOP31G7bu): Uma clássica forma de fazer uma propaganda. Este projeto foi realizado no p5.js.
 
 ![GIF 1](https://www.icegif.com/wp-content/uploads/2022/04/icegif-444.gif)
 
