@@ -12,8 +12,8 @@ Neste repositório, você encontrará diversos projetos e exercícios que estou 
 - **Frameworks:** React, Node.js
 - **Ferramentas:** Git, GitHub, Visual Studio Code
 
-## JOGO PONG 🏓
-- [Jogo do Pong](https://editor.p5js.org/geovani.alex/full/DOP31G7bu): Um clássico jogo de Pong onde você controla uma raquete contra outra, tentando rebater uma bolinha para marcar pontos. Este projeto foi realizado no p5.js.
+## FRASE CARRAGANDO
+- [APERTE AQUI](https://editor.p5js.org/geovani.alex/full/DOP31G7bu): Um clássico jogo de Pong onde você controla uma raquete contra outra, tentando rebater uma bolinha para marcar pontos. Este projeto foi realizado no p5.js.
 
 ![GIF 1](https://www.icegif.com/wp-content/uploads/2022/04/icegif-444.gif)
 
